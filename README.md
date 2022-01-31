@@ -3,10 +3,10 @@
 - 🌱 I’m currently learning Java, SQL, React, JS/TS, HTML AND CSS
 - 😄 Pronouns:He/His
 
-<div align="center">
+<div>
   <a href="LucasEduardoPrado">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasEduardoPrado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasEduardoPrado&layout=compact&langs_count=7&theme=dracula"/>
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasEduardoPrado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img align="right"height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasEduardoPrado&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
