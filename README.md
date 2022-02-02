@@ -1,12 +1,15 @@
 ### hello world i'm Lucas do Prado
 
-- 🌱 I’m currently learning Java, SQL, React, JS/TS, HTML AND CSS
+- 🌱 I’m currently learning Java, SQL, React, JS/TS, HTML, CSS and Power BI
 - 😄 Pronouns:He/His
 
 <div align="center">
+  
   <a href="LucasEduardoPrado">
+    
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasEduardoPrado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasEduardoPrado&layout=compact&langs_count=7&theme=dracula"/>
+    
 </div>
   
 <div style="display: inline_block"><br>
